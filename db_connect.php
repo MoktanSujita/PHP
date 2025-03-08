@@ -1,3 +1,4 @@
+//Used to connect database
 <?php
 $servername="localhost";
 $username="root";
