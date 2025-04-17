@@ -6,5 +6,5 @@
 
     echo "session data stored";
 
-    session_destroy();        //once session is started, it needs to be destroyed manually
+    session_destroy();      //once session is started, it needs to be destroyed manually
 ?>
